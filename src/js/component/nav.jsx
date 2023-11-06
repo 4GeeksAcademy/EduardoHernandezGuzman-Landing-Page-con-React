@@ -3,7 +3,7 @@ import React from "react";
 const Nav = () => {
     return (
         <>
-            <nav className="navbar navbar-expand-lg bg-body-tertiary  bg-secondary">
+            <nav className="navbar navbar-expand-lg" style={{ backgroundColor: "#373739" }} >
                 <div className="container-fluid">
                     <a className="navbar-brand text-white fw-bold" href="#">Start Bootstrap</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
